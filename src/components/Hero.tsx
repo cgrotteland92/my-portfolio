@@ -17,7 +17,7 @@ const Hero = () => {
             <span className="inline-block animate-wave">👋</span>
           </h1>
           <p className="text-lg md:text-xl leading-relaxed">
-            A passionate front-end development student currently studying at
+            A passionate front-end developer from Stavanger, graduated from
             Noroff School of Technology and Digital Media, dedicated to learning
             and creating responsive, user-friendly web designs.
           </p>
